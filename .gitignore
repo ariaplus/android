@@ -1,4 +1,4 @@
-{
+
   "node_modules/",
   "npm-debug.*",
   "*.jks",
@@ -13,4 +13,4 @@
   "dist/",
   "android/",
   "ios/"
-}
+
